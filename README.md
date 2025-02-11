@@ -36,7 +36,7 @@ This project is a **Car License Plate Detection System** using **YOLOv8** and **
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Car-Plate-Detection.git
+   git clone https://github.com/Ahmed482-21albadawy/Car-Plate-Detector.git
    cd Car-Plate-Detection
    ```
 2. **Create a virtual environment & Install dependencies:**
