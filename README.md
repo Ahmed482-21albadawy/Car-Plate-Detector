@@ -44,7 +44,6 @@ This project is a **Car License Plate Detection System** using **YOLOv8** and **
    python -m venv venv
    source venv/bin/activate  # For Linux/macOS
    venv\Scripts\activate     # For Windows
-   pip install -r requirements.txt
    ```
 3. **Download the Trained Model**\
    Place the trained **best.pt** file in the project directory.
