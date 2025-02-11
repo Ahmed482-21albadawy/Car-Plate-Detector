@@ -28,8 +28,7 @@ This project is a **Car License Plate Detection System** using **YOLOv8** and **
 ├── ModelTraining.py    # Model training, validation, and evaluation script
 ├── convert.py          # Converts XML annotations to YOLO format
 ├── app.py              # Flask application
-├── best.pt             # Trained YOLOv8 model weights
-├── requirements.txt    # Required dependencies
+├── best.pt             # Trained YOLOv8 model (best weights)
 ├── README.md           # Project documentation
 ```
 
