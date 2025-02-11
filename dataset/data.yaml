@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/AIproject/dataset/train/images
+val: /content/drive/MyDrive/AIproject/dataset/val/images
+test: /content/drive/MyDrive/AIproject/dataset/test/images
+
+nc: 1  # Number of classes
+names: ["licence"]  # Class names
